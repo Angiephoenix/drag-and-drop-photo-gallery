@@ -1,1 +1,1 @@
-# drag-and-drop-photo-gallery
+# Drag-and-Drop Photo Gallery
